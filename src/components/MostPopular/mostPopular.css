@@ -1,0 +1,116 @@
+.popularSalePara {
+  width: 753px;
+  height: 72px;
+  position: relative;
+  margin: 0px 0px 52px 0px;
+  color: #06002e;
+  font-size: 16px;
+  font-family: Lato;
+  line-height: 24px;
+}
+.popularWineMainDiv {
+  width: 59px;
+  position: relative;
+  gap: 8px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  padding: 0px 14px 0px 245px;
+}
+.wineBottle {
+  width: 72px;
+  height: 235px;
+  position: relative;
+  background-size: cover;
+  background-position: 50% 50%;
+  background-blend-mode: normal;
+  background-image: url(https://file.rendit.io/n/cl6QgDf9gYzQNhkqwAtx.png);
+}
+.wineBottleLeft {
+  height: 181px;
+  left: 0px;
+  top: 36px;
+  position: absolute;
+  gap: 8px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  align-items: flex-start;
+  padding: 12px 125px 12px 10px;
+  border-width: 1px;
+  border-radius: 10px;
+  border-style: solid;
+  border-color: #06002e;
+  background-size: cover;
+  background-position: 50% 50%;
+}
+.nameWine {
+  width: 59px;
+  height: 14px;
+  color: #06002e;
+  font-size: 12px;
+  font-family: Lato;
+  white-space: nowrap;
+}
+.oldWine {
+  width: 183px;
+  height: 24px;
+  font-size: 20px;
+  font-family: Lato;
+  line-height: 24px;
+  white-space: nowrap;
+}
+.countryWine {
+  width: 187px;
+  height: 20px;
+  margin: 0px 0px 8px 0px;
+  color: #06002e;
+  font-size: 16px;
+  font-family: Lato;
+  line-height: 20px;
+}
+.wineAge {
+  gap: 9px;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: flex-start;
+  margin: 0px 0px 9px 0px;
+  padding: 4px 18px 5px 12px;
+  border-radius: 10px;
+  background-color: #e1e0e1;
+}
+.wineAge > img {
+  width: 10px;
+  min-width: 0px;
+  height: 5px;
+  min-height: 0px;
+  margin: 6.67px 0px 0px 0px;
+}
+.age {
+  width: 28px;
+  height: 20px;
+  font-size: 16px;
+  font-family: Lato;
+  line-height: 20px;
+  white-space: nowrap;
+}
+.readMore {
+  width: 76px;
+  height: 24px;
+  color: #9b6b4e;
+  font-size: 16px;
+  font-weight: 500;
+  font-family: Lato;
+  line-height: 24px;
+  white-space: nowrap;
+  text-decoration-line: underline;
+}
+.wineBottleSection {
+  display: flex;
+  justify-content: space-between;
+}
+.winsSaleMain {
+  margin-bottom: 5rem;
+}

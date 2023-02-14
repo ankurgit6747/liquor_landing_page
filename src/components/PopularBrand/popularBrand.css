@@ -1,0 +1,15 @@
+.brandLogoDiv {
+  width: 297px;
+  height: 224px;
+  margin: 1px 0px 0px 0px;
+  background-size: cover;
+  background-position: 50% 50%;
+  background-blend-mode: normal;
+  background-image: url(https://file.rendit.io/n/h9dkVvbTOYM7t1VvqaFr.png);
+}
+.verticleLine {
+  width: 1px;
+  height: 130px;
+  align-self: center;
+  background-color: #9b6b4e;
+}

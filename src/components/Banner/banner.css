@@ -1,0 +1,109 @@
+.mainBanner {
+  position: relative;
+  gap: 70px;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+  max-width: 1440px;
+  margin: auto;
+}
+.textDiv {
+  height: 322px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: flex-start;
+}
+.fastAndSecure {
+  width: 171px;
+  height: 24px;
+  color: #06002e;
+  font-size: 20px;
+  font-weight: 600;
+  font-family: Lato;
+  white-space: nowrap;
+}
+.simple {
+  width: 529px;
+  height: 170px;
+  color: #06002e;
+  font-size: 64px;
+  font-weight: 700;
+  font-family: Lato;
+  line-height: 85px;
+}
+.paraDiv {
+  width: 478px;
+  height: 96px;
+  color: #06002e;
+  font-size: 16px;
+  font-family: Lato;
+  line-height: 24px;
+}
+.getStartbtn {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  padding: 14px 44px 14px 43px;
+  border-radius: 10px;
+  background-color: #06002e;
+  width: 5rem;
+  margin-top: 2rem;
+}
+
+.getStartedText {
+  width: 82px;
+  height: 20px;
+  color: #fbfaff;
+  font-size: 16px;
+  font-weight: 600;
+  font-family: Lato;
+  line-height: 20px;
+  white-space: nowrap;
+}
+.right {
+  width: 172px;
+  position: relative;
+  gap: 18px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  align-self: flex-start;
+  align-items: flex-start;
+  padding: 28px 618px 28px 0px;
+}
+.top {
+  height: 600px;
+  left: 72px;
+  top: 0px;
+  position: absolute;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  align-items: flex-start;
+  padding: 85px 0px 85px 109px;
+  border-radius: 10px 0px 0px 10px;
+  background-color: #9b6b4e;
+}
+.topInside {
+  width: 609px;
+  height: 554px;
+  background-size: cover;
+  background-position: 50% 50%;
+  background-blend-mode: normal;
+  background-image: url(https://file.rendit.io/n/sUOtDTMKhv2Cye1csEkn.png);
+}
+.bottom {
+  width: 172px;
+  height: 696px;
+  position: relative;
+  background-size: cover;
+  background-position: 50% 50%;
+  background-blend-mode: normal;
+  background-image: url(https://file.rendit.io/n/qnZe82fQLsuZUHoPHXxi.png);
+}
