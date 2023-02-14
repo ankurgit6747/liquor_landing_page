@@ -19,7 +19,7 @@ const index = () => {
       </div>
       <div className={styles.rightSide}>
         <div className={styles.searchBtnDiv}>
-          <button>search</button>
+          <img src="https://file.rendit.io/n/5WctvmPBEuk75QilBjx4.svg" alt="searchLogo" />
         </div>
         <div className={styles.signinAndSellBtn}>
           <button className={styles.sellBtn}>Sell</button>
