@@ -10,7 +10,7 @@ const PopularWine = ({imgUrl}) => {
         <div className='countryWine'>Contrary to popular belief, </div>
         <div className='wineAge'>
           <div className='age'>+17</div>
-          <img src="https://file.rendit.io/n/vCo8yoHDkplj3CJUkiCM.svg" alt="svg" />
+          <img src="https://file.rendit.io/n/tbiyr1ST0F7Ebgh6H8bp.png" alt="svg" />
         </div>
         <div className='readMore'>Read more</div>
       </div>
