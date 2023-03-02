@@ -21,7 +21,7 @@ const WhySpiritory = () => {
             </div>
           </div>
         </div>
-        <div className='leafImage'></div>
+        {/* <div className='leafImage'></div> */}
       </div>
       <div className='subSecond'>
         <div className='secondTop'></div>

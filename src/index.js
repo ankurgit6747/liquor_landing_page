@@ -8,6 +8,7 @@ import MostPopular from "./components/MostPopular"
 import PopularBrand from "./components/PopularBrand";
 import WhySpiritory from "./components/WhySpiritory";
 import BannerImage from "./assets/banner.png"
+import Footer from "./components/Footer/Footer.js"
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
@@ -23,6 +24,7 @@ root.render(
      <img src={BannerImage} alt="bannerImage" />
    </div>
    <WhySpiritory />
+   <Footer />
   </>
 );
 

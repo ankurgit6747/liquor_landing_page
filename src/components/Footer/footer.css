@@ -1,0 +1,63 @@
+.mainfooter {
+    max-width: 1440px;
+    margin: auto;
+}
+.footerDiv {
+    margin: auto;
+    max-width: 1441px;
+    gap: 35px;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: flex-start;
+    padding: 29px 0px 24px 0px;
+    background-color: #f9f9f5;
+    margin-top: 4rem;
+}
+.first {
+      gap: 24px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    margin: 0px 19px 0px -28px;
+    margin-left: 4rem;
+}
+.logoDiv {
+    width: 225px;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-self: flex-end;
+    align-items: flex-start;
+    margin: 0px 30.2px 0px 0px;
+    padding: 10.7px 10.1px;
+    background-size: cover;
+}
+.second {
+    height: 410px;
+    gap: 16px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+}
+.secondHead {
+    width: 117px;
+    height: 38px;
+    margin: 0px 0px 4px 0px;
+    color: #06002e;
+    font-size: 32px;
+    font-weight: 500;
+    font-family: Lato;
+    white-space: nowrap;
+}
+.subHead1 {
+    width: 307px;
+    height: 30px;
+    color: #06002e;
+    font-size: 17px;
+    font-family: Inter;
+    line-height: 30px;
+}
